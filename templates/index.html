@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title >Haemophilia Predictor</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
+  <link rel="stylesheet" type="text/css" href="{{ url_for('static',filename='styles/style.css') }}">
+</head>
+
+<body>
+  <div class="container">
+    <div class="fluid-container rounded" id="form">
+    <h1 class="font-monospace">Haemophilia Severity Predictor</h1>
+    <form id="prediction-form">
+      <div class="form-group">
+        <label for="effect"><b>Types of Type mutations</b></label>
+        <select class="form-select" id="effect" aria-label="Default select example">
+          <option value="missense">missense</option>
+          <option value="nonsense">nonsense</option>
+          <option value="silent">silent</option>
+        </select>
+      </div>
+      <br>
+      <div class="form-group">
+        <label for="domain"><b>Domain in gene</b></label>
+        <select class="form-select" id="domain" aria-label="Default select example">
+          <option value="serine protease">serine protease</option>
+          <option value="egf1">egf1</option>
+          <option value="linker">linker</option>
+          <option value="pro-peptide">pro-peptide</option>
+          <option value="gla">gla</option>
+          <option value="egf2">egf2</option>
+          <option value="act-peptide">act-peptide</option>
+          <option value="signal peptide">signal peptide</option>
+        </select>
+      </div>
+      <br>
+      <div class="form-group">
+        <label for="gene_location"><b>Location in gene</b></label>
+        <select class="form-select" id="gene_location" aria-label="Default select example">
+          <option value="exon 8">exon 8</option>
+          <option value="exon 7">exon 7</option>
+          <option value="exon 6">exon 6</option>
+          <option value="exon 5">exon 5</option>
+          <option value="exon 4">exon 4</option>
+          <option value="exon 3">exon 3</option>
+          <option value="exon 2">exon 2</option>
+          <option value="exon 1">exon 1</option>
+        </select>
+      </div>
+      <br>
+      <div class="form-group">
+        <label for="act_nucleo"><b>Actual Nucleotide</b></label>
+        <select class="form-select" id="act_nucleo" aria-label="Default select example">
+          <option value="a">Adenine</option>
+          <option value="t">Thymine</option>
+          <option value="g">Guanine</option>
+          <option value="c">Cytosine</option>
+        </select>
+      </div>
+      <br>
+      <div class="form-group">
+        <label for="nucleo_pos"><b>Nucleotide Position</b></label>
+        <input type="text" class="form-control" id="nucleo_pos" name="nucleo_pos" value=214 required>
+      </div>
+      <br>
+      <div class="form-group">
+        <label for="mut_nucleo"><b>Mutated Nucleotide</b></label>
+        <select class="form-select" id="mut_nucleo" aria-label="Default select example">
+          <option value="a">Adenine</option>
+          <option value="t">Thymine</option>
+          <option value="g">Guanine</option>
+          <option value="c">Cytosine</option>
+        </select>
+      </div>
+      <br>
+      <div class="form-group">
+        <label for="act_amino"><b>Actual Amino Acid</b></label>
+        <select class="form-select" id="act_amino" aria-label="Default select example">
+          <option value="ala">alanine</option>
+          <option value="arg">arginine</option>
+          <option value="asn">asparagine</option>
+          <option value="asp">aspartic acid</option>
+          <option value="cys">cysteine</option>
+          <option value="glu">glutamic acid</option>
+          <option value="gln">glutamine</option>
+          <option value="gly">glycine</option>
+          <option value="his">histidine</option>
+          <option value="ile">isoleucine</option>
+          <option value="leu">leucine</option>
+          <option value="lys">lysine</option>
+          <option value="met">methionine</option>
+          <option value="phe">phenylalanine</option>
+          <option value="pro">proline</option>
+          <option value="ser">serine</option>
+          <option value="thr">threonine</option>
+          <option value="trp">tryptophan</option>
+          <option value="tyr">tyrosine</option>
+          <option value="val">valine</option>
+        </select>
+      </div>
+      <br>
+      <div class="form-group">
+        <label for="amino_pos"><b>Amino Acide Position</b></label>
+        <input type="text" class="form-control" id="amino_pos" name="amino_pos" value=414 equired>
+      </div>
+      <br>
+      <div class="form-group">
+        <label for="mut_amino"><b>Mutated Amino Acid</b></label>
+        <select class="form-select" id="mut_amino" aria-label="Default select example">
+          <option value="ala">alanine</option>
+          <option value="arg">arginine</option>
+          <option value="asn">asparagine</option>
+          <option value="asp">aspartic acid</option>
+          <option value="cys">cysteine</option>
+          <option value="glu">glutamic acid</option>
+          <option value="gln">glutamine</option>
+          <option value="gly">glycine</option>
+          <option value="his">histidine</option>
+          <option value="ile">isoleucine</option>
+          <option value="leu">leucine</option>
+          <option value="lys">lysine</option>
+          <option value="met">methionine</option>
+          <option value="phe">phenylalanine</option>
+          <option value="pro">proline</option>
+          <option value="ser">serine</option>
+          <option value="thr">threonine</option>
+          <option value="trp">tryptophan</option>
+          <option value="tyr">tyrosine</option>
+          <option value="val">valine</option>
+          <option value="stp_cdn">stop codon</option>
+        </select>
+      </div>
+      <br>
+      <div class="form-group">
+        <label for="fix_c"><b>FIX:C %:</b></label>
+        <input type="text" class="form-control" id="fix_c" name="fix_c" value=34 required>
+      </div>
+      <br>
+      <div class="form-group">
+        <label for="fix_ag"><b>FIX:Ag %:</b></label>
+        <input type="text" class="form-control" id="fix_ag" name="fix_ag" value=50 required>
+      </div>
+      <br>
+      <div class="d-grid">
+      <button type="submit" class="btn btn-dark btn-lg font-monospace" action>Predict</button>
+    </div>
+    </form>
+    <span class="mt-3" id="result" hidden></span>
+    <p id="output" class="fs-4 fw-bold text-center"></p>
+    <div class="d-grid">
+    <button class="btn btn-dark btn-lg font-monospace"><a href="" id="link">Suggestions</a></button>
+  </div>
+  </div>
+    </form>
+  </div>
+</div>
+  
+  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"
+    integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r"
+    crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.min.js"
+    integrity="sha384-fbbOQedDUMZZ5KreZpsbe1LCZPVmfTnH7ois6mU1QK+m14rQ1l2bGBq41eYeM/fS"
+    crossorigin="anonymous"></script>
+  <script src="{{url_for('static', filename='script.js')}}"></script>
+</body>
+
+</html>
