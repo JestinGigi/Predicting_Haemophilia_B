@@ -25,13 +25,22 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.naive_bayes import GaussianNB as GNB
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.ensemble import GradientBoostingClassifier
-from sklearn.metrics import accuracy_score
+from sklearn.metrics import accuracy_score, confusion_matrix, roc_curve, roc_auc_score
 
 #Importing dataset splitting library
 from sklearn.model_selection import train_test_split
 
 #Import Joblib
 import joblib
+
+#Encoders
+from sklearn.preprocessing import OrdinalEncoder
+from sklearn.preprocessing import LabelEncoder
+from sklearn.compose import ColumnTransformer
+from sklearn.preprocessing import StandardScaler
+
+#SMOTE
+from imblearn.over_sampling import SMOTE
 
 # %% [markdown]
 # Exploratory Data analysis
@@ -276,10 +285,7 @@ n_df = new_df.iloc[:, :-1]
 t_df = new_df.iloc[:, -1]
 
 # %%
-from sklearn.preprocessing import OrdinalEncoder
-from sklearn.preprocessing import LabelEncoder
-from sklearn.compose import ColumnTransformer
-from sklearn.preprocessing import StandardScaler
+
 
 # Label Encode severity
 lb = LabelEncoder()
@@ -321,7 +327,6 @@ y = n_df.iloc[:, -1]
 X_train, X_test, y_train, y_test = train_test_split(x, y, test_size=.25, random_state=42)
 
 # correcting imbalance dataset
-from imblearn.over_sampling import SMOTE
 smote = SMOTE(random_state=42)
 X_train, y_train = smote.fit_resample(X_train, y_train)
 
@@ -341,10 +346,48 @@ gb.fit(X_train, y_train)
 
 # %%
 # Calculate the accuracy
-print(f"Logistic regression: {accuracy_score(y_test, log_reg.predict(X_test))}")
-print(f"Naive Bayes: {accuracy_score(y_test, nb_classifier.predict(X_test))}")
-print(f"Random Forest: {accuracy_score(y_test, rf.predict(X_test))}")
-print(f"Gradient boosting: {accuracy_score(y_test, gb.predict(X_test))}")
+acc_log = accuracy_score(y_test, log_reg.predict(X_test))
+acc_nb = accuracy_score(y_test, nb_classifier.predict(X_test))
+acc_rf = accuracy_score(y_test, rf.predict(X_test))
+acc_gb = accuracy_score(y_test, gb.predict(X_test))
+
+print(f"Logistic regression: {acc_log}")
+print(f"Naive Bayes: {acc_nb}")
+print(f"Random Forest: {acc_rf}")
+print(f"Gradient boosting: {acc_gb}")
+
+# %%
+#Accuracy 
+accuracies = [i * 100 for i in [acc_log, acc_nb,acc_rf, acc_gb] ]
+alg = ["Logistic Regression", "Naive Bayes", "Random Forest", "Gradient Boosting"]
+
+fig = plt.figure(figsize=(10,5))
+
+plt.bar(x=alg, height=accuracies) 
+plt.ylabel('Accuracy in %')
+plt.xlabel("ML models")
+
+# %%
+# subplots for recall 
+
+
+
+# %%
+#confusion matrix for all ml models 
+print(f"Confusion Matrix for log_reg: \n{confusion_matrix(y_test, log_reg.predict(X_test))}")
+print(f"Confusion Matrix for nb_classifier: \n{confusion_matrix(y_test, nb_classifier.predict(X_test))}")
+print(f"Confusion Matrix for random forest: \n{confusion_matrix(y_test, rf.predict(X_test))}")
+print(f"Confusion Matrix for gradient boosting: \n{confusion_matrix(y_test, gb.predict(X_test))}")
+
+# %%
+#roc auc score for all ml models
+print(roc_auc_score(y_test, log_reg.predict_proba(X_test), multi_class='ovr'))
+print(roc_auc_score(y_test, nb_classifier.predict_proba(X_test), multi_class='ovr'))
+print(roc_auc_score(y_test, rf.predict_proba(X_test), multi_class='ovr'))
+print(roc_auc_score(y_test, gb.predict_proba(X_test), multi_class='ovr'))
+
+# %%
+print(list(lb.classes_))
 
 # %%
 n_df.info()
