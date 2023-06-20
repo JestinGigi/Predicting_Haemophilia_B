@@ -1,0 +1,709 @@
+,Effect,Domain,Location in gene,FIX:C %,FIX:Ag %,act_nucleo,nucleo_pos,mut_nucleo,act_amino,amino_pos,mut_amino,Severity
+130,missense,signal peptide,exon 1,0.23695065289806005,0.7193009295450307,g,8,a,arg,3,his,severe
+131,missense,signal peptide,exon 1,0.17688946306723208,0.2200224724225106,a,19,t,ile,7,phe,severe
+135,missense,signal peptide,exon 1,2.0,0.6953393482751904,t,50,a,ile,17,asn,moderate
+136,missense,signal peptide,exon 1,0.26340378074220716,0.2657383217137107,t,50,a,ile,17,asn,severe
+144,nonsense,signal peptide,exon 1,0.2658248348855893,0.026337072837139708,t,64,g,tyr,22,stp_cdn,severe
+148,missense,signal peptide,exon 1,0.044171213795982434,0.49796401597543727,t,68,c,leu,23,pro,severe
+151,missense,signal peptide,exon 1,2.0,2.0,c,77,a,ala,26,asp,moderate
+155,missense,signal peptide,exon 1,4.0,4.0,t,82,c,cys,28,arg,moderate
+169,missense,signal peptide,exon 1,0.6318001666888498,0.4410942887229289,t,84,g,cys,28,trp,severe
+207,missense,pro-peptide,exon 1,0.2992457217442338,2.0,g,88,a,val,30,ile,severe
+226,missense,pro-peptide,exon 2,0.2513660872302461,0.4332505758094525,a,112,c,asn,38,his,severe
+234,missense,pro-peptide,exon 2,3.0,41.0,c,127,t,arg,43,trp,moderate
+235,missense,pro-peptide,exon 2,0.6278307587436283,20.0,c,127,t,arg,43,trp,severe
+246,missense,pro-peptide,exon 2,1.0,28.0,c,127,t,arg,43,trp,moderate
+252,missense,pro-peptide,exon 2,1.0,52.0,c,127,t,arg,43,trp,moderate
+254,missense,pro-peptide,exon 2,0.562519648632979,37.0,c,127,t,arg,43,trp,severe
+255,missense,pro-peptide,exon 2,4.0,36.0,c,127,t,arg,43,trp,moderate
+261,missense,pro-peptide,exon 2,0.4116136746841862,28.0,c,127,t,arg,43,trp,severe
+265,missense,pro-peptide,exon 2,0.9020509716753445,38.0,c,127,t,arg,43,trp,severe
+270,missense,pro-peptide,exon 2,0.9603221436283015,40.0,c,127,t,arg,43,trp,severe
+288,missense,pro-peptide,exon 2,1.0,30.0,c,127,t,arg,43,trp,moderate
+289,missense,pro-peptide,exon 2,2.0,27.0,c,127,t,arg,43,trp,moderate
+290,missense,pro-peptide,exon 2,2.7637434452081036,36.0,c,127,t,arg,43,trp,moderate
+291,missense,pro-peptide,exon 2,0.8848270252771068,27.094838861885933,c,127,t,arg,43,trp,severe
+292,missense,pro-peptide,exon 2,4.0,9.0,c,127,t,arg,43,trp,moderate
+294,missense,pro-peptide,exon 2,1.0,37.0,c,127,t,arg,43,trp,moderate
+295,missense,pro-peptide,exon 2,3.0,20.0,c,127,t,arg,43,trp,moderate
+307,missense,pro-peptide,exon 2,0.7285904318803945,44.0,g,128,a,arg,43,gln,severe
+308,missense,pro-peptide,exon 2,0.605507337580023,41.50643180706181,g,128,a,arg,43,gln,severe
+326,missense,pro-peptide,exon 2,0.11660555449009558,49.0,g,128,a,arg,43,gln,severe
+328,missense,pro-peptide,exon 2,0.25636229970206215,12.0,g,128,a,arg,43,gln,severe
+334,missense,pro-peptide,exon 2,0.9659244065814202,55.0,g,128,a,arg,43,gln,severe
+337,missense,pro-peptide,exon 2,0.12287662207639649,54.857805792751655,g,128,a,arg,43,gln,severe
+339,missense,pro-peptide,exon 2,0.7615206729224354,37.0,g,128,a,arg,43,gln,severe
+344,missense,pro-peptide,exon 2,2.0,15.0,g,128,a,arg,43,gln,moderate
+348,missense,pro-peptide,exon 2,1.0,82.0,g,128,a,arg,43,gln,moderate
+349,missense,pro-peptide,exon 2,4.0,93.0,g,128,a,arg,43,gln,moderate
+352,missense,pro-peptide,exon 2,0.4948095344601525,40.0,g,128,a,arg,43,gln,severe
+355,missense,pro-peptide,exon 2,0.8680592126308633,52.0,g,128,a,arg,43,gln,severe
+356,missense,pro-peptide,exon 2,0.24172212787269232,48.0,g,128,a,arg,43,gln,severe
+363,missense,pro-peptide,exon 2,0.7965979640862798,46.0,g,128,a,arg,43,gln,severe
+369,missense,pro-peptide,exon 2,0.9562430682198715,38.0,g,128,a,arg,43,gln,severe
+376,missense,pro-peptide,exon 2,0.9460911841824682,89.0,g,128,a,arg,43,gln,severe
+378,missense,pro-peptide,exon 2,1.0,45.0,g,128,a,arg,43,gln,moderate
+379,missense,pro-peptide,exon 2,1.0,48.0,g,128,a,arg,43,gln,moderate
+380,missense,pro-peptide,exon 2,4.0,80.0,g,128,a,arg,43,gln,moderate
+384,missense,pro-peptide,exon 2,0.9726935694789212,41.0,g,128,a,arg,43,gln,severe
+385,missense,pro-peptide,exon 2,0.38822456406895123,65.0,g,128,a,arg,43,gln,severe
+386,missense,pro-peptide,exon 2,2.0,40.0,g,128,a,arg,43,gln,moderate
+388,missense,pro-peptide,exon 2,0.5128600488050146,98.0,g,128,a,arg,43,gln,severe
+389,missense,pro-peptide,exon 2,2.6,49.0,g,128,a,arg,43,gln,moderate
+393,missense,pro-peptide,exon 2,1.0,26.0,g,128,a,arg,43,gln,moderate
+394,missense,pro-peptide,exon 2,3.0,38.0,g,128,a,arg,43,gln,moderate
+403,missense,pro-peptide,exon 2,2.0,52.0,g,128,t,arg,43,leu,moderate
+406,missense,pro-peptide,exon 2,0.7535917744531211,45.0,g,128,t,arg,43,leu,severe
+407,missense,pro-peptide,exon 2,0.8686939864418436,49.0,g,128,t,arg,43,leu,severe
+414,missense,pro-peptide,exon 2,0.5701285455501443,27.0,g,128,t,arg,43,leu,severe
+418,missense,pro-peptide,exon 2,0.24439307009802058,37.0,g,135,t,lys,45,asn,severe
+427,missense,pro-peptide,exon 2,2.0,65.0,g,138,t,arg,46,ser,moderate
+428,missense,pro-peptide,exon 2,0.24218113490835713,80.0,g,138,c,arg,46,ser,severe
+438,missense,gla,exon 2,4.0,60.0,a,142,t,asn,48,tyr,moderate
+439,missense,gla,exon 2,1.0,60.0,a,143,t,asn,48,ile,moderate
+440,missense,gla,exon 2,5.0,44.0,t,145,c,ser,49,pro,moderate
+441,missense,gla,exon 2,4.0,41.0,t,145,c,ser,49,pro,moderate
+451,missense,gla,exon 2,4.0,121.0,a,151,g,lys,51,glu,moderate
+459,missense,gla,exon 2,5.0,5.0,a,158,c,glu,53,ala,moderate
+466,missense,gla,exon 2,2.0,45.0,a,161,g,glu,54,gly,moderate
+468,missense,gla,exon 2,0.5185604510654284,100.0,g,162,c,glu,54,asp,severe
+472,missense,gla,exon 2,15.0,68.0,t,163,a,phe,55,ile,mild
+480,missense,gla,exon 2,4.0,82.0,t,163,a,phe,55,ile,moderate
+483,missense,gla,exon 2,14.0,118.0,t,163,a,phe,55,ile,mild
+490,nonsense,gla,exon 2,0.1906198788274711,0.2,c,169,t,gln,57,stp_cdn,severe
+493,missense,gla,exon 2,0.5939590739579687,48.0,g,172,a,gly,58,arg,severe
+494,missense,gla,exon 2,13.0,44.0,g,172,a,gly,58,arg,mild
+497,missense,gla,exon 2,3.0,97.0,g,173,c,gly,58,ala,moderate
+499,missense,gla,exon 2,1.0,104.0,g,173,a,gly,58,glu,moderate
+512,missense,gla,exon 2,1.0,32.0,g,187,a,glu,63,lys,moderate
+514,missense,gla,exon 2,1.0,58.0,g,187,a,glu,63,lys,moderate
+521,missense,gla,exon 2,0.48621973540302277,100.0,t,190,c,cys,64,arg,severe
+530,missense,gla,exon 2,3.0,27.0,g,191,a,cys,64,tyr,moderate
+537,missense,gla,exon 2,0.8132621132097442,52.0,g,199,a,glu,67,lys,severe
+539,missense,gla,exon 2,0.7606629052483105,20.0,t,205,c,cys,69,arg,severe
+543,missense,gla,exon 2,0.848073329826032,35.0,t,205,c,cys,69,arg,severe
+551,missense,gla,exon 2,0.39908844167370383,45.0,g,206,a,cys,69,tyr,severe
+554,missense,gla,exon 2,0.7687144474763059,19.0,g,206,a,cys,69,tyr,severe
+562,missense,gla,exon 2,5.0,25.0,t,212,c,phe,71,ser,moderate
+563,missense,gla,exon 2,2.0,32.0,t,212,c,phe,71,ser,moderate
+569,missense,gla,exon 2,0.3071743821818441,42.0,g,214,c,glu,72,gln,severe
+574,missense,gla,exon 2,0.21015576347674758,30.0,g,217,a,glu,73,lys,severe
+577,missense,gla,exon 2,0.7448717354822135,3.0,a,218,t,glu,73,val,severe
+580,missense,gla,exon 2,0.22596738506088443,90.0,a,219,c,glu,73,asp,severe
+586,nonsense,gla,exon 2,0.6635980820246428,0.9171943656234114,c,223,t,arg,75,stp_cdn,severe
+588,nonsense,gla,exon 2,0.7802105000658317,0.045726473190725175,c,223,t,arg,75,stp_cdn,severe
+667,nonsense,gla,exon 2,0.515772315545963,2.0,c,223,t,arg,75,stp_cdn,severe
+669,nonsense,gla,exon 2,1.9,0.5420181717067298,c,223,t,arg,75,stp_cdn,moderate
+670,nonsense,gla,exon 2,1.6,0.7438271168224344,c,223,t,arg,75,stp_cdn,moderate
+675,nonsense,gla,exon 2,0.7359915761242425,7.0,c,223,t,arg,75,stp_cdn,severe
+704,missense,gla,exon 2,20.0,70.0,g,224,a,arg,75,gln,mild
+705,missense,gla,exon 2,10.0,77.0,g,224,a,arg,75,gln,mild
+706,missense,gla,exon 2,18.0,51.0,g,224,a,arg,75,gln,mild
+735,missense,gla,exon 2,16.0,40.0,c,251,t,thr,84,ile,mild
+780,missense,gla,exon 3,15.0,34.0,t,259,g,phe,87,val,mild
+789,nonsense,gla,exon 3,0.7144775412470654,0.9595847618846074,g,263,a,trp,88,stp_cdn,severe
+792,missense,gla,exon 3,14.0,96.0,a,265,g,lys,89,glu,mild
+800,missense,gla,exon 3,9.0,59.0,t,271,g,tyr,91,asp,mild
+824,missense,egf1,exon 3,0.8679807444206755,0.8341379791109387,g,277,a,asp,93,asn,severe
+849,missense,egf1,exon 4,10.0,100.0,a,278,g,asp,93,gly,mild
+851,missense,egf1,exon 4,1.0,90.0,t,279,a,asp,93,glu,moderate
+852,missense,egf1,exon 4,14.0,80.0,t,279,a,asp,93,glu,mild
+853,missense,egf1,exon 4,25.0,89.0,g,280,a,gly,94,arg,mild
+854,missense,egf1,exon 4,28.0,70.0,g,280,a,gly,94,arg,mild
+856,missense,egf1,exon 4,28.0,101.0,g,280,a,gly,94,arg,mild
+858,missense,egf1,exon 4,19.0,108.0,g,281,t,gly,94,val,mild
+865,missense,egf1,exon 4,0.41686579424528847,0.030945618609390713,c,286,g,gln,96,glu,severe
+866,missense,egf1,exon 4,0.19329474249893686,114.0,a,287,c,gln,96,pro,severe
+871,missense,egf1,exon 4,0.11980695783206308,2.0,t,289,c,cys,97,arg,severe
+874,missense,egf1,exon 4,0.33112523459421506,5.0,t,291,g,cys,97,trp,severe
+875,missense,egf1,exon 4,0.2231527054327087,7.999325310823129,t,291,g,cys,97,trp,severe
+876,missense,egf1,exon 4,1.0,5.0,t,291,g,cys,97,trp,moderate
+878,missense,egf1,exon 4,0.315116384830193,0.5509331741408879,t,291,g,cys,97,trp,severe
+882,nonsense,egf1,exon 4,0.4467344506007057,20.0,g,292,t,glu,98,stp_cdn,severe
+895,missense,egf1,exon 4,8.0,53.0,c,301,g,pro,101,ala,mild
+896,missense,egf1,exon 4,11.886814023332638,49.0,c,301,g,pro,101,ala,mild
+897,missense,egf1,exon 4,10.0,11.914560339464447,c,301,g,pro,101,ala,mild
+901,missense,egf1,exon 4,11.0,58.0,c,301,g,pro,101,ala,mild
+908,missense,egf1,exon 4,12.0,52.0,c,301,t,pro,101,ser,mild
+910,missense,egf1,exon 4,13.0,95.0,c,301,a,pro,101,thr,mild
+912,missense,egf1,exon 4,6.0,34.0,c,302,a,pro,101,gln,mild
+923,missense,egf1,exon 4,1.0,2.0,t,304,a,cys,102,ser,moderate
+925,missense,egf1,exon 4,0.7318876303199489,0.7846957236714126,g,305,c,cys,102,ser,severe
+928,missense,egf1,exon 4,0.6499870592650532,0.8472725625342618,g,305,a,cys,102,tyr,severe
+931,missense,egf1,exon 4,1.0,2.0,g,305,a,cys,102,tyr,moderate
+936,missense,egf1,exon 4,20.0,60.0,g,314,a,gly,105,asp,mild
+940,missense,egf1,exon 4,0.682399574270601,6.0,g,316,c,gly,106,arg,severe
+1013,missense,egf1,exon 4,13.0,34.0,g,316,a,gly,106,ser,mild
+1014,missense,egf1,exon 4,17.0,22.0,g,316,a,gly,106,ser,mild
+1017,missense,egf1,exon 4,76.0,72.0,g,316,a,gly,106,ser,mild
+1026,missense,egf1,exon 4,17.0,21.0,g,316,a,gly,106,ser,mild
+1029,missense,egf1,exon 4,10.0,27.0,g,316,a,gly,106,ser,mild
+1030,missense,egf1,exon 4,6.0,28.0,g,316,a,gly,106,ser,mild
+1031,missense,egf1,exon 4,10.0,10.0,g,316,a,gly,106,ser,mild
+1035,missense,egf1,exon 4,11.0,4.0,g,316,a,gly,106,ser,mild
+1040,missense,egf1,exon 4,9.0,31.0,g,316,a,gly,106,ser,mild
+1041,missense,egf1,exon 4,13.0,30.0,g,316,a,gly,106,ser,mild
+1044,missense,egf1,exon 4,12.0,31.0,g,316,a,gly,106,ser,mild
+1046,missense,egf1,exon 4,10.0,28.0,g,316,a,gly,106,ser,mild
+1052,missense,egf1,exon 4,10.0,11.0,g,316,a,gly,106,ser,mild
+1053,missense,egf1,exon 4,11.0,19.0,g,316,a,gly,106,ser,mild
+1054,missense,egf1,exon 4,10.0,18.0,g,316,a,gly,106,ser,mild
+1055,missense,egf1,exon 4,17.0,30.0,g,316,a,gly,106,ser,mild
+1056,missense,egf1,exon 4,15.0,54.0,g,316,a,gly,106,ser,mild
+1057,missense,egf1,exon 4,14.0,35.0,g,316,a,gly,106,ser,mild
+1058,missense,egf1,exon 4,16.0,41.0,g,316,a,gly,106,ser,mild
+1061,missense,egf1,exon 4,12.0,32.0,g,316,a,gly,106,ser,mild
+1065,missense,egf1,exon 4,22.0,23.0,g,316,a,gly,106,ser,mild
+1066,missense,egf1,exon 4,9.0,20.0,g,316,a,gly,106,ser,mild
+1067,missense,egf1,exon 4,15.0,20.0,g,316,a,gly,106,ser,mild
+1070,missense,egf1,exon 4,11.0,31.0,g,316,a,gly,106,ser,mild
+1071,missense,egf1,exon 4,15.0,30.0,g,316,a,gly,106,ser,mild
+1072,missense,egf1,exon 4,25.0,32.0,g,316,a,gly,106,ser,mild
+1073,missense,egf1,exon 4,7.0,33.0,g,316,a,gly,106,ser,mild
+1074,missense,egf1,exon 4,7.0,23.5,g,316,a,gly,106,ser,mild
+1075,missense,egf1,exon 4,8.0,26.0,g,316,a,gly,106,ser,mild
+1096,missense,egf1,exon 4,1.0,2.0,g,317,a,gly,106,asp,moderate
+1105,missense,egf1,exon 4,3.0,117.0,g,328,a,asp,110,asn,moderate
+1108,missense,egf1,exon 4,8.0,87.0,a,329,g,asp,110,gly,mild
+1109,missense,egf1,exon 4,12.0,46.0,t,330,g,asp,110,glu,mild
+1114,missense,egf1,exon 4,20.0,91.0,t,335,c,ile,112,thr,mild
+1137,missense,egf1,exon 4,0.08764627613949538,0.25369049873485494,g,350,a,cys,117,tyr,severe
+1150,missense,egf1,exon 4,1.0,1.0,t,355,c,cys,119,arg,moderate
+1154,missense,egf1,exon 4,0.6671782867267204,1.0,g,356,a,cys,119,tyr,severe
+1155,missense,egf1,exon 4,0.1715670546201956,2.0,g,356,a,cys,119,tyr,severe
+1159,missense,egf1,exon 4,6.0,12.0,g,365,t,gly,122,val,mild
+1161,missense,egf1,exon 4,19.0,83.0,t,368,g,phe,123,cys,mild
+1168,missense,egf1,exon 4,14.0,54.0,t,368,c,phe,123,ser,mild
+1170,missense,egf1,exon 4,12.0,66.0,t,368,c,phe,123,ser,mild
+1172,missense,egf1,exon 4,0.8002085911089767,84.0,g,370,a,glu,124,lys,severe
+1177,missense,egf1,exon 4,0.3060150342495107,0.012687810834465463,g,373,a,gly,125,arg,severe
+1185,missense,egf1,exon 4,0.8479702624021095,1.4980225512897183,g,385,a,glu,129,lys,severe
+1228,missense,egf2,exon 5,0.05738832367877211,24.0,t,400,c,cys,134,arg,severe
+1231,missense,egf2,exon 5,0.1726979448406164,14.0,t,400,g,cys,134,gly,severe
+1238,missense,egf2,exon 5,0.5752795633797017,9.0,g,401,a,cys,134,tyr,severe
+1248,missense,egf2,exon 5,5.0,57.0,a,412,c,asn,138,his,moderate
+1256,missense,egf2,exon 5,2.0,66.0,a,412,c,asn,138,his,moderate
+1262,missense,egf2,exon 5,0.6238555697657071,86.0,t,414,a,asn,138,lys,severe
+1267,missense,egf2,exon 5,1.0,37.0,g,415,a,gly,139,ser,moderate
+1268,missense,egf2,exon 5,2.0,30.0,g,415,a,gly,139,ser,moderate
+1272,missense,egf2,exon 5,3.0,22.0,g,415,a,gly,139,ser,moderate
+1274,missense,egf2,exon 5,2.0,30.0,g,416,a,gly,139,asp,moderate
+1279,missense,egf2,exon 5,1.0,84.0,a,420,t,arg,140,ser,moderate
+1292,missense,egf2,exon 5,0.9056790944629417,6.0,g,422,a,cys,141,tyr,severe
+1296,nonsense,egf2,exon 5,0.7751242164683176,3.1849875455803356,c,423,a,cys,141,stp_cdn,severe
+1301,missense,egf2,exon 5,0.36964591625300924,0.12314544802415783,c,423,g,cys,141,trp,severe
+1303,missense,egf2,exon 5,0.8668971698831022,2.0,c,423,g,cys,141,trp,severe
+1311,missense,egf2,exon 5,0.8184436832155015,0.15440370483460375,c,427,g,gln,143,glu,severe
+1315,missense,egf2,exon 5,0.9456200169434156,0.21251454041349827,a,428,g,gln,143,arg,severe
+1328,missense,egf2,exon 5,20.0,120.0,t,458,c,val,153,ala,mild
+1332,silent,egf2,exon 5,12.0,20.0,g,459,a,val,153,val,mild
+1335,silent,egf2,exon 5,20.0,24.0,g,459,a,val,153,val,mild
+1336,silent,egf2,exon 5,15.0,24.0,g,459,a,val,153,val,mild
+1337,silent,egf2,exon 5,21.0,14.0,g,459,a,val,153,val,mild
+1341,missense,egf2,exon 5,0.8404338890798352,4.0,g,464,t,cys,155,phe,severe
+1349,missense,egf2,exon 5,0.8174687082950239,0.057077572459625636,g,464,a,cys,155,tyr,severe
+1351,missense,egf2,exon 5,0.5167366216061343,0.5527359893769476,t,466,c,ser,156,pro,severe
+1354,missense,egf2,exon 5,7.0,0.4872305032115004,t,466,c,ser,156,pro,mild
+1360,missense,egf2,exon 5,0.9344494609334695,0.9306269006272065,t,469,c,cys,157,arg,severe
+1384,missense,egf2,exon 5,13.0,5.0,g,479,c,gly,160,ala,mild
+1385,missense,egf2,exon 5,5.0,4.0,g,479,c,gly,160,ala,moderate
+1389,missense,egf2,exon 5,7.0,8.0,g,479,a,gly,160,glu,mild
+1394,missense,egf2,exon 5,0.5196634493407458,2.0,g,479,t,gly,160,val,severe
+1401,missense,egf2,exon 5,2.0,1.0,a,482,g,tyr,161,cys,moderate
+1415,nonsense,egf2,exon 5,0.038840982808132085,0.9690848647333574,c,484,t,arg,162,stp_cdn,severe
+1427,nonsense,egf2,exon 5,0.8038059364611272,0.020276480958488552,c,484,t,arg,162,stp_cdn,severe
+1429,nonsense,egf2,exon 5,0.1961628686197603,0.4,c,484,t,arg,162,stp_cdn,severe
+1430,nonsense,egf2,exon 5,0.5267882010793133,3.0,c,484,t,arg,162,stp_cdn,severe
+1434,silent,egf2,exon 5,4.0,5.0,c,484,a,arg,162,arg,moderate
+1435,silent,egf2,exon 5,6.0,7.0,c,484,a,arg,162,arg,mild
+1437,silent,egf2,exon 5,5.0,5.0,c,484,a,arg,162,arg,moderate
+1441,missense,egf2,exon 5,0.005042516244494144,0.4,a,496,t,asn,166,tyr,severe
+1443,nonsense,egf2,exon 5,0.6715585673465402,0.4164930571987725,c,499,t,gln,167,stp_cdn,severe
+1467,missense,linker,exon 5,0.11544898939987047,1.7453847542614154,c,518,t,ala,173,val,severe
+1468,missense,linker,exon 5,0.48719061406591513,0.7419694134055879,c,518,t,ala,173,val,severe
+1538,missense,linker,exon 6,0.6579214474821011,0.456547586872351,c,529,t,pro,177,ser,severe
+1542,missense,linker,exon 6,0.7564759937478991,3.231263209998654,t,532,c,cys,178,arg,severe
+1544,missense,linker,exon 6,0.47415314477785986,0.696998354919713,t,532,c,cys,178,arg,severe
+1554,missense,linker,exon 6,0.5070579084919353,0.357381144897291,g,533,t,cys,178,phe,severe
+1557,missense,linker,exon 6,0.5073423913803567,0.5544816243113011,g,533,a,cys,178,tyr,severe
+1567,missense,linker,exon 6,4.0,4.0,g,535,a,gly,179,arg,moderate
+1568,missense,linker,exon 6,0.7352023039543624,0.03396847727627228,g,536,a,gly,179,glu,severe
+1573,missense,linker,exon 6,1.0,43.0,c,571,t,arg,191,cys,moderate
+1591,missense,linker,exon 6,2.0,18.0,c,571,t,arg,191,cys,moderate
+1595,missense,linker,exon 6,2.0,38.0,c,571,t,arg,191,cys,moderate
+1600,missense,linker,exon 6,1.0,17.0,c,571,t,arg,191,cys,moderate
+1602,missense,linker,exon 6,0.22302532880721337,30.0,c,571,t,arg,191,cys,severe
+1604,missense,linker,exon 6,3.0,36.0,c,571,t,arg,191,cys,moderate
+1619,missense,linker,exon 6,3.0,32.0,c,571,t,arg,191,cys,moderate
+1622,missense,linker,exon 6,0.2820159876204451,13.0,c,571,t,arg,191,cys,severe
+1623,missense,linker,exon 6,0.5376483626343849,66.0,c,571,t,arg,191,cys,severe
+1624,missense,linker,exon 6,3.0,54.0,c,571,t,arg,191,cys,moderate
+1625,missense,linker,exon 6,2.0,43.0,c,571,t,arg,191,cys,moderate
+1627,missense,linker,exon 6,0.005037323756755363,34.0,c,571,t,arg,191,cys,severe
+1628,missense,linker,exon 6,2.0,60.0,c,571,t,arg,191,cys,moderate
+1629,missense,linker,exon 6,2.0,40.0,c,571,t,arg,191,cys,moderate
+1630,missense,linker,exon 6,3.0,52.0,c,571,t,arg,191,cys,moderate
+1633,missense,linker,exon 6,1.0,30.0,c,571,t,arg,191,cys,moderate
+1634,missense,linker,exon 6,4.0,44.0,c,571,t,arg,191,cys,moderate
+1635,missense,linker,exon 6,2.0,62.0,c,571,t,arg,191,cys,moderate
+1639,missense,linker,exon 6,5.0,91.0,g,572,a,arg,191,his,moderate
+1640,missense,linker,exon 6,3.0,75.0,g,572,a,arg,191,his,moderate
+1641,missense,linker,exon 6,4.0,147.0,g,572,a,arg,191,his,moderate
+1643,missense,linker,exon 6,7.0,120.0,g,572,a,arg,191,his,mild
+1644,missense,linker,exon 6,4.0,80.0,g,572,a,arg,191,his,moderate
+1645,missense,linker,exon 6,5.0,140.0,g,572,a,arg,191,his,moderate
+1646,missense,linker,exon 6,2.0,58.558880553058685,g,572,a,arg,191,his,moderate
+1669,missense,linker,exon 6,9.0,105.0,g,572,a,arg,191,his,mild
+1705,missense,linker,exon 6,10.0,80.0,g,572,a,arg,191,his,mild
+1709,missense,linker,exon 6,9.0,104.0,g,572,a,arg,191,his,mild
+1710,missense,linker,exon 6,5.0,94.0,g,572,a,arg,191,his,moderate
+1714,missense,linker,exon 6,12.0,73.0,g,572,a,arg,191,his,mild
+1717,missense,linker,exon 6,4.0,100.0,g,572,a,arg,191,his,moderate
+1721,missense,linker,exon 6,7.0,148.0,g,572,a,arg,191,his,mild
+1722,missense,linker,exon 6,1.0,60.0,g,572,a,arg,191,his,moderate
+1723,missense,linker,exon 6,8.768749355475535,91.0,g,572,a,arg,191,his,mild
+1725,missense,linker,exon 6,5.851060130285556,115.0,g,572,a,arg,191,his,mild
+1726,missense,linker,exon 6,7.0,110.0,g,572,a,arg,191,his,mild
+1730,missense,linker,exon 6,7.0,160.0,g,572,a,arg,191,his,mild
+1732,missense,linker,exon 6,6.0,100.0,g,572,a,arg,191,his,mild
+1735,missense,linker,exon 6,11.0,100.0,g,572,a,arg,191,his,mild
+1736,missense,linker,exon 6,5.0,44.0,g,572,a,arg,191,his,moderate
+1738,missense,linker,exon 6,8.0,100.0,g,572,a,arg,191,his,mild
+1745,missense,linker,exon 6,6.0,115.0,g,572,a,arg,191,his,mild
+1747,missense,linker,exon 6,9.652045248674415,91.0,g,572,a,arg,191,his,mild
+1750,missense,linker,exon 6,7.0,60.0,g,572,t,arg,191,leu,mild
+1752,missense,linker,exon 6,2.0,40.0,g,572,t,arg,191,leu,moderate
+1753,missense,linker,exon 6,5.0,73.0,g,572,c,arg,191,pro,moderate
+1762,nonsense,act-peptide,exon 6,0.8666688275084329,0.44658462120527853,t,603,g,tyr,201,stp_cdn,severe
+1764,nonsense,act-peptide,exon 6,0.26887864331361144,0.36343594175066096,g,622,t,glu,208,stp_cdn,severe
+1773,missense,act-peptide,exon 6,0.6346132336181649,64.0,c,676,g,arg,226,gly,severe
+1774,missense,act-peptide,exon 6,0.07293538487727314,85.0,c,676,g,arg,226,gly,severe
+1775,missense,act-peptide,exon 6,0.23813614114203796,90.0,c,676,g,arg,226,gly,severe
+1792,missense,act-peptide,exon 6,0.6099432357381811,59.0,c,676,t,arg,226,trp,severe
+1800,missense,act-peptide,exon 6,0.014207043574219202,69.0,c,676,t,arg,226,trp,severe
+1802,missense,act-peptide,exon 6,0.8489125776362071,77.0,c,676,t,arg,226,trp,severe
+1804,missense,act-peptide,exon 6,0.025657308022736802,120.0,c,676,t,arg,226,trp,severe
+1805,missense,act-peptide,exon 6,0.15025952785590146,100.0,c,676,t,arg,226,trp,severe
+1806,missense,act-peptide,exon 6,0.017984221708866155,130.0,c,676,t,arg,226,trp,severe
+1813,missense,act-peptide,exon 6,0.09654194335051736,74.0,c,676,t,arg,226,trp,severe
+1814,missense,act-peptide,exon 6,0.20254030550604585,50.0,c,676,t,arg,226,trp,severe
+1815,missense,act-peptide,exon 6,0.23499807446169263,110.0,c,676,t,arg,226,trp,severe
+1816,missense,act-peptide,exon 6,0.3014533215915778,45.0,c,676,t,arg,226,trp,severe
+1819,missense,act-peptide,exon 6,0.9138703876831665,95.0,c,676,t,arg,226,trp,severe
+1845,missense,act-peptide,exon 6,0.062243341679873,129.0,g,677,a,arg,226,gln,severe
+1847,missense,act-peptide,exon 6,0.9720117115224517,100.0,g,677,a,arg,226,gln,severe
+1851,missense,act-peptide,exon 6,2.0,120.0,g,677,a,arg,226,gln,moderate
+1856,missense,act-peptide,exon 6,0.42354325571247264,5.0,g,677,a,arg,226,gln,severe
+1857,missense,act-peptide,exon 6,0.15123571481550468,120.0,g,677,a,arg,226,gln,severe
+1873,missense,act-peptide,exon 6,0.1142621187563384,112.0,g,677,a,arg,226,gln,severe
+1878,missense,act-peptide,exon 6,3.0,100.0,g,677,a,arg,226,gln,moderate
+1883,missense,act-peptide,exon 6,0.31562945599083947,73.0,g,677,t,arg,226,leu,severe
+1886,missense,act-peptide,exon 6,0.49901658736686394,90.0,g,677,c,arg,226,pro,severe
+1889,missense,serine protease,exon 6,0.03461921961784631,117.0,g,679,t,val,227,phe,severe
+1890,missense,serine protease,exon 6,0.15851970848988128,130.0,g,679,t,val,227,phe,severe
+1893,missense,serine protease,exon 6,15.0,132.0,g,682,c,val,228,leu,mild
+1897,missense,serine protease,exon 6,0.3892325348047364,120.0,g,682,t,val,228,phe,severe
+1898,missense,serine protease,exon 6,23.0,100.0,t,683,c,val,228,ala,mild
+1899,missense,serine protease,exon 6,2.0,72.0,t,683,g,val,228,gly,moderate
+1904,missense,serine protease,exon 6,0.6531257457302232,100.0,g,685,a,gly,229,ser,severe
+1917,missense,serine protease,exon 6,0.7617011421429831,36.0,c,698,a,ala,233,asp,severe
+1922,missense,serine protease,exon 6,0.20284769868429364,50.0,g,707,a,gly,236,asp,severe
+1942,missense,serine protease,exon 6,0.06003545488036166,36.0,g,706,t,gly,236,val,severe
+1943,nonsense,serine protease,exon 6,0.009287264943782736,0.7255033827541892,c,709,t,gln,237,stp_cdn,severe
+1944,nonsense,serine protease,exon 6,0.71588342507929,4.0,c,709,t,gln,237,stp_cdn,severe
+1945,nonsense,serine protease,exon 6,0.47951647226678884,5.0,c,709,t,gln,237,stp_cdn,severe
+1946,nonsense,serine protease,exon 6,0.12778457881519023,3.0,c,709,t,gln,237,stp_cdn,severe
+1948,missense,serine protease,exon 6,0.23792361718986343,0.07766636467672862,c,709,a,gln,237,lys,severe
+1949,silent,serine protease,exon 6,0.651778001837348,0.15305152520884635,a,711,g,gln,237,gln,severe
+1950,silent,serine protease,exon 6,3.0,2.0,a,711,g,gln,237,gln,moderate
+1951,missense,serine protease,exon 6,2.0,5.787823396773239,t,712,g,phe,238,val,moderate
+1952,missense,serine protease,exon 6,3.0,17.0,c,715,t,pro,239,ser,moderate
+1957,missense,serine protease,exon 6,0.8405638028585878,1.0,t,718,a,trp,240,arg,severe
+1958,missense,serine protease,exon 6,4.0,4.0,t,718,c,trp,240,arg,moderate
+1959,nonsense,serine protease,exon 6,0.42777152526156037,0.06744657991721513,g,719,a,trp,240,stp_cdn,severe
+1965,nonsense,serine protease,exon 6,0.04274473462402262,0.3443850088991297,g,719,a,trp,240,stp_cdn,severe
+1967,nonsense,serine protease,exon 6,0.2847842441956129,2.0,g,719,a,trp,240,stp_cdn,severe
+1968,nonsense,serine protease,exon 6,3.0,7.8,g,719,a,trp,240,stp_cdn,moderate
+1984,missense,serine protease,exon 6,0.013140587965910777,0.12289400988203003,g,720,t,trp,240,cys,severe
+1991,missense,serine protease,exon 6,0.660861840412098,0.850539936547296,a,722,g,gln,241,arg,severe
+2009,silent,serine protease,exon 6,2.0,2.0,g,723,a,gln,241,gln,moderate
+2011,silent,serine protease,exon 6,0.5647203557078841,0.10030470738190966,g,723,a,gln,241,gln,severe
+2014,missense,serine protease,exon 6,0.3211291842160301,0.5904642792998058,g,723,c,gln,241,his,severe
+2030,missense,serine protease,exon 7,0.09464267755326394,0.4617546221603973,t,731,c,leu,244,ser,severe
+2038,missense,serine protease,exon 7,0.8824873740640675,0.12582810791279075,g,755,c,cys,252,ser,severe
+2045,missense,serine protease,exon 7,0.8919846610237419,1.5,g,755,a,cys,252,tyr,severe
+2048,nonsense,serine protease,exon 7,0.0792554669847989,0.3126074026935133,g,757,t,gly,253,stp_cdn,severe
+2054,missense,serine protease,exon 7,0.22625510846222863,0.7777026581568085,g,758,a,gly,253,glu,severe
+2056,missense,serine protease,exon 7,0.038325671333203526,56.0,g,758,a,gly,253,glu,severe
+2067,missense,serine protease,exon 7,6.0,0.5653521272648175,g,761,a,gly,254,asp,mild
+2074,missense,serine protease,exon 7,0.7272257710869239,0.3106759854801572,g,769,a,val,257,ile,severe
+2078,missense,serine protease,exon 7,0.2111074268075842,0.3948324014621811,t,770,a,val,257,asp,severe
+2084,nonsense,serine protease,exon 7,0.22490622920121162,0.5267159645055414,g,775,t,glu,259,stp_cdn,severe
+2089,missense,serine protease,exon 7,0.5897761387518566,0.4057131102573944,t,781,c,trp,261,arg,severe
+2090,missense,serine protease,exon 7,4.0,0.5586775026782834,t,781,c,trp,261,arg,moderate
+2094,missense,serine protease,exon 7,0.5157358303569018,0.1,g,782,a,trp,261,leu,severe
+2098,missense,serine protease,exon 7,0.18174753302026225,0.22532134917363922,g,783,t,trp,261,cys,severe
+2105,missense,serine protease,exon 7,4.0,4.0,t,785,c,ile,262,thr,moderate
+2109,missense,serine protease,exon 7,15.0,4.0,t,786,g,ile,262,met,mild
+2115,missense,serine protease,exon 7,0.02163538438057855,24.0,g,793,c,ala,265,pro,severe
+2128,missense,serine protease,exon 7,11.0,15.0,c,797,t,ala,266,val,mild
+2130,missense,serine protease,exon 7,0.33468048545454754,3.0,c,797,t,ala,266,val,severe
+2132,missense,serine protease,exon 7,0.7866902128583613,5.0,c,799,t,his,267,tyr,severe
+2134,missense,serine protease,exon 7,1.0,62.0,a,800,g,his,267,arg,moderate
+2138,missense,serine protease,exon 7,0.6263459604491453,100.0,c,801,a,his,267,gln,severe
+2151,missense,serine protease,exon 7,11.0,14.0,g,835,a,ala,279,thr,mild
+2152,missense,serine protease,exon 7,8.0,8.0,g,835,a,ala,279,thr,mild
+2154,missense,serine protease,exon 7,5.0,16.0,g,835,a,ala,279,thr,moderate
+2155,missense,serine protease,exon 7,15.0,15.0,g,835,a,ala,279,thr,mild
+2156,missense,serine protease,exon 7,17.0,13.0,g,835,a,ala,279,thr,mild
+2158,missense,serine protease,exon 7,9.0,11.0,g,835,a,ala,279,thr,mild
+2160,missense,serine protease,exon 7,14.0,14.0,g,835,a,ala,279,thr,mild
+2176,missense,serine protease,exon 7,11.0,10.0,g,835,a,ala,279,thr,mild
+2181,missense,serine protease,exon 7,12.0,12.0,g,835,a,ala,279,thr,mild
+2195,missense,serine protease,exon 7,5.0,9.0,g,835,a,ala,279,thr,moderate
+2198,missense,serine protease,exon 7,13.0,14.0,g,835,a,ala,279,thr,mild
+2204,missense,serine protease,exon 7,15.0,25.0,g,835,a,ala,279,thr,mild
+2211,missense,serine protease,exon 7,20.0,3.0,g,835,a,ala,279,thr,mild
+2219,missense,serine protease,exon 7,13.0,10.0,g,835,a,ala,279,thr,mild
+2220,missense,serine protease,exon 7,0.7838941116889531,0.7639388866301671,g,835,a,ala,279,thr,severe
+2224,missense,serine protease,exon 7,11.0,15.0,g,835,a,ala,279,thr,mild
+2226,missense,serine protease,exon 7,9.074709422126482,12.0,g,835,a,ala,279,thr,mild
+2229,missense,serine protease,exon 7,9.0,15.0,g,835,a,ala,279,thr,mild
+2231,missense,serine protease,exon 7,10.0,11.0,g,835,a,ala,279,thr,mild
+2239,missense,serine protease,exon 7,6.0,16.0,g,835,a,ala,279,thr,mild
+2240,missense,serine protease,exon 7,8.231421320219322,12.0,g,835,a,ala,279,thr,mild
+2249,missense,serine protease,exon 7,0.4540233391800025,0.7300721211147475,g,838,c,gly,280,arg,severe
+2273,missense,serine protease,exon 8,0.2023003854367924,0.36598547514143287,g,839,t,gly,280,val,severe
+2283,nonsense,serine protease,exon 8,0.8556015291618642,0.8275431748918642,g,862,t,glu,288,stp_cdn,severe
+2285,missense,serine protease,exon 8,0.25956020001778823,75.0,c,865,t,his,289,tyr,severe
+2291,missense,serine protease,exon 8,2.0,74.0,g,871,a,glu,291,lys,moderate
+2295,missense,serine protease,exon 8,3.0,110.0,a,872,g,glu,291,gly,moderate
+2297,missense,serine protease,exon 8,3.0,39.0,a,872,t,glu,291,val,moderate
+2301,nonsense,serine protease,exon 8,0.17740793653236075,0.628285218252135,c,880,t,arg,294,stp_cdn,severe
+2302,nonsense,serine protease,exon 8,0.32528724116323837,2.8572036163504713,c,880,t,arg,294,stp_cdn,severe
+2305,nonsense,serine protease,exon 8,0.8197672094829002,0.04590810113460082,c,880,t,arg,294,stp_cdn,severe
+2312,nonsense,serine protease,exon 8,0.2257646951691893,9.0,c,880,t,arg,294,stp_cdn,severe
+2368,nonsense,serine protease,exon 8,0.3112240603379737,4.0,c,880,t,arg,294,stp_cdn,severe
+2381,nonsense,serine protease,exon 8,3.0,1.1,c,880,t,arg,294,stp_cdn,moderate
+2382,nonsense,serine protease,exon 8,0.8042424134552615,1.0,c,880,t,arg,294,stp_cdn,severe
+2384,nonsense,serine protease,exon 8,2.0,0.5200747086029432,c,880,t,arg,294,stp_cdn,moderate
+2400,missense,serine protease,exon 8,6.0,0.20428343558792306,g,881,a,arg,294,gln,mild
+2401,missense,serine protease,exon 8,11.0,5.0,g,881,a,arg,294,gln,mild
+2402,missense,serine protease,exon 8,0.9543793668698531,0.8187104418721267,g,881,a,arg,294,gln,severe
+2459,missense,serine protease,exon 8,2.0,2.170544350493567,g,881,a,arg,294,gln,moderate
+2464,missense,serine protease,exon 8,4.0,2.9643199528441286,g,881,a,arg,294,gln,moderate
+2465,missense,serine protease,exon 8,3.0,4.0,g,881,a,arg,294,gln,moderate
+2482,missense,serine protease,exon 8,2.5,2.0,g,881,a,arg,294,gln,moderate
+2485,missense,serine protease,exon 8,3.0,5.72917193423947,g,881,a,arg,294,gln,moderate
+2486,missense,serine protease,exon 8,6.0,9.0,g,881,a,arg,294,gln,mild
+2506,missense,serine protease,exon 8,4.0,19.0,g,881,a,arg,294,gln,moderate
+2508,missense,serine protease,exon 8,2.0,3.0,g,881,a,arg,294,gln,moderate
+2510,missense,serine protease,exon 8,1.0,1.0,g,881,a,arg,294,gln,moderate
+2511,missense,serine protease,exon 8,4.0,3.0,g,881,a,arg,294,gln,moderate
+2512,missense,serine protease,exon 8,2.0,2.0,g,881,a,arg,294,gln,moderate
+2513,missense,serine protease,exon 8,3.0,2.0,g,881,a,arg,294,gln,moderate
+2515,missense,serine protease,exon 8,6.0,3.0,g,881,a,arg,294,gln,mild
+2517,missense,serine protease,exon 8,3.0,3.0,g,881,a,arg,294,gln,moderate
+2518,missense,serine protease,exon 8,2.0,1.7,g,881,a,arg,294,gln,moderate
+2519,missense,serine protease,exon 8,6.0,4.151452129899824,g,881,a,arg,294,gln,mild
+2520,missense,serine protease,exon 8,5.0,1.7,g,881,a,arg,294,gln,moderate
+2522,missense,serine protease,exon 8,2.0,1.5,g,881,a,arg,294,gln,moderate
+2574,nonsense,serine protease,exon 8,0.8115661600127492,1.4837430451398863,c,892,t,arg,298,stp_cdn,severe
+2575,nonsense,serine protease,exon 8,0.6735721176817239,0.4572982816134298,c,892,t,arg,298,stp_cdn,severe
+2576,nonsense,serine protease,exon 8,0.6354687903541978,4.0,c,892,t,arg,298,stp_cdn,severe
+2610,nonsense,serine protease,exon 8,0.4926006667447099,6.0,c,892,t,arg,298,stp_cdn,severe
+2614,nonsense,serine protease,exon 8,3.0,0.9494249037355321,c,892,t,arg,298,stp_cdn,moderate
+2623,missense,serine protease,exon 8,0.5732143364749559,0.035975141635097074,c,907,t,his,303,tyr,severe
+2631,missense,serine protease,exon 8,0.9997302136511782,0.9701011956450044,a,915,g,tyr,305,cys,severe
+2635,missense,serine protease,exon 8,25.0,25.0,a,928,t,asn,310,tyr,mild
+2637,nonsense,serine protease,exon 8,0.15357733288014697,0.3210370749506203,c,936,a,tyr,312,stp_cdn,severe
+2644,missense,serine protease,exon 8,6.0,2.0,a,941,g,his,314,arg,mild
+2647,missense,serine protease,exon 8,8.0,2.0,t,942,g,his,314,gln,mild
+2657,missense,serine protease,exon 8,0.6780922985991081,0.5018926813057638,a,944,t,asp,315,val,severe
+2659,missense,serine protease,exon 8,0.7899320578087805,5.0,c,945,a,asp,315,glu,severe
+2664,missense,serine protease,exon 8,2.0,2.0,a,946,t,ile,316,phe,moderate
+2665,missense,serine protease,exon 8,0.7073022830137649,0.20866455826820984,a,946,t,ile,316,phe,severe
+2667,missense,serine protease,exon 8,0.7660742268356922,36.0,a,946,t,ile,316,phe,severe
+2672,missense,serine protease,exon 8,0.8226373209842104,0.9069238293580828,t,947,c,ile,316,thr,severe
+2682,missense,serine protease,exon 8,1.0,4.0,c,950,t,ala,317,val,moderate
+2688,missense,serine protease,exon 8,0.6492511496194228,2.0,t,953,g,leu,318,arg,severe
+2691,missense,serine protease,exon 8,0.648035124473424,4.795101588223882,t,956,g,leu,319,arg,severe
+2701,missense,serine protease,exon 8,0.820897619849201,2.236282876599489,t,962,g,leu,321,arg,severe
+2703,missense,serine protease,exon 8,0.2425838899884406,14.0,t,962,c,leu,321,pro,severe
+2704,missense,serine protease,exon 8,0.8619414610814236,1.0,t,962,c,leu,321,pro,severe
+2706,missense,serine protease,exon 8,0.6612621574432558,0.8389269410360017,t,962,c,leu,321,pro,severe
+2715,missense,serine protease,exon 8,13.0,13.0,t,973,a,leu,325,ile,mild
+2720,missense,serine protease,exon 8,4.0,50.0,a,982,t,asn,328,tyr,moderate
+2722,missense,serine protease,exon 8,3.0,1.9609142686711811,c,984,g,asn,328,lys,moderate
+2729,nonsense,serine protease,exon 8,0.3484355461015689,2.0,c,990,a,tyr,330,stp_cdn,severe
+2731,nonsense,serine protease,exon 8,1.0,0.3779054946892324,c,990,a,tyr,330,stp_cdn,moderate
+2732,missense,serine protease,exon 8,0.8591840900599707,0.3631242426041973,g,991,t,val,331,phe,severe
+2734,missense,serine protease,exon 8,0.4788974130698892,0.5336229071915257,c,997,t,pro,333,leu,severe
+2737,missense,serine protease,exon 8,3.0,3.0,c,998,a,pro,333,his,moderate
+2741,missense,serine protease,exon 8,6.0,2.0,t,1001,c,ile,334,thr,mild
+2743,missense,serine protease,exon 8,0.2823521701763648,0.5617382537336494,t,1002,g,ile,334,met,severe
+2755,missense,serine protease,exon 8,2.0,3.0,g,1009,c,ala,337,pro,moderate
+2757,missense,serine protease,exon 8,7.0,9.0,g,1009,a,ala,337,thr,mild
+2758,missense,serine protease,exon 8,9.0,11.0,g,1009,a,ala,337,thr,mild
+2759,missense,serine protease,exon 8,7.0,10.0,g,1009,a,ala,337,thr,mild
+2771,missense,serine protease,exon 8,17.0,80.0,a,1015,g,lys,339,glu,mild
+2772,missense,serine protease,exon 8,19.0,80.0,a,1015,g,lys,339,glu,mild
+2775,nonsense,serine protease,exon 8,0.6946196505342064,0.6795992239665656,g,1018,t,glu,340,stp_cdn,severe
+2779,nonsense,serine protease,exon 8,0.5354060969312727,0.0118453160350257,c,1023,g,tyr,341,stp_cdn,severe
+2792,missense,serine protease,exon 8,0.7955818255032753,10.617236753836542,c,1025,t,thr,342,met,severe
+2964,missense,serine protease,exon 8,9.0,8.0,c,1025,t,thr,342,met,mild
+2966,missense,serine protease,exon 8,9.0,9.0,c,1025,t,thr,342,met,mild
+2986,missense,serine protease,exon 8,15.0,10.0,c,1025,t,thr,342,met,mild
+2989,missense,serine protease,exon 8,3.0,8.0,c,1025,t,thr,342,met,moderate
+2995,missense,serine protease,exon 8,11.0,5.0,c,1025,t,thr,342,met,mild
+3004,missense,serine protease,exon 8,2.0,3.0,c,1025,t,thr,342,met,moderate
+3006,missense,serine protease,exon 8,8.0,7.0,c,1025,t,thr,342,met,mild
+3008,missense,serine protease,exon 8,2.0,10.0,c,1025,t,thr,342,met,moderate
+3010,missense,serine protease,exon 8,4.0,7.0,c,1025,t,thr,342,met,moderate
+3011,missense,serine protease,exon 8,6.0,7.0,c,1025,t,thr,342,met,mild
+3012,missense,serine protease,exon 8,4.0,9.0,c,1025,t,thr,342,met,moderate
+3015,missense,serine protease,exon 8,6.0,9.0,c,1025,t,thr,342,met,mild
+3028,missense,serine protease,exon 8,4.0,15.0,c,1025,t,thr,342,met,moderate
+3029,missense,serine protease,exon 8,6.0,5.0,c,1025,t,thr,342,met,mild
+3032,missense,serine protease,exon 8,5.0,10.0,c,1025,t,thr,342,met,moderate
+3037,missense,serine protease,exon 8,5.0,7.0,c,1025,t,thr,342,met,moderate
+3038,missense,serine protease,exon 8,2.0,6.0,c,1025,t,thr,342,met,moderate
+3040,missense,serine protease,exon 8,4.0,10.0,c,1025,t,thr,342,met,moderate
+3041,missense,serine protease,exon 8,5.0,11.0,c,1025,t,thr,342,met,moderate
+3043,missense,serine protease,exon 8,1.0,23.0,c,1025,t,thr,342,met,moderate
+3046,missense,serine protease,exon 8,6.0,6.0,c,1025,t,thr,342,met,mild
+3047,missense,serine protease,exon 8,5.0,8.0,c,1025,t,thr,342,met,moderate
+3051,missense,serine protease,exon 8,2.0,11.0,c,1025,t,thr,342,met,moderate
+3052,missense,serine protease,exon 8,5.0,17.0,c,1025,t,thr,342,met,moderate
+3056,missense,serine protease,exon 8,4.0,4.0,c,1025,t,thr,342,met,moderate
+3057,missense,serine protease,exon 8,2.0,5.0,c,1025,t,thr,342,met,moderate
+3059,missense,serine protease,exon 8,2.0,7.0,c,1025,t,thr,342,met,moderate
+3060,missense,serine protease,exon 8,4.0,13.0,c,1025,t,thr,342,met,moderate
+3063,missense,serine protease,exon 8,3.0,5.5,c,1025,t,thr,342,met,moderate
+3064,missense,serine protease,exon 8,7.0,6.0,c,1025,t,thr,342,met,mild
+3066,missense,serine protease,exon 8,3.5,4.4,c,1025,t,thr,342,met,moderate
+3067,missense,serine protease,exon 8,9.0,12.0,c,1025,t,thr,342,met,mild
+3069,missense,serine protease,exon 8,3.0,7.8,c,1025,t,thr,342,met,moderate
+3070,missense,serine protease,exon 8,2.9,7.5,c,1025,t,thr,342,met,moderate
+3075,missense,serine protease,exon 8,7.0,11.0,c,1025,t,thr,342,met,mild
+3113,missense,serine protease,exon 8,45.0,69.0,t,1031,a,ile,344,asn,mild
+3126,missense,serine protease,exon 8,2.0,5.0,g,1046,t,gly,349,val,moderate
+3129,missense,serine protease,exon 8,0.28462814977695083,0.3,g,1052,a,gly,351,asp,severe
+3133,nonsense,serine protease,exon 8,0.5263306754558711,0.24918275073029317,t,1056,a,tyr,352,stp_cdn,severe
+3136,missense,serine protease,exon 8,12.0,35.0,t,1058,c,val,353,ala,mild
+3139,missense,serine protease,exon 8,15.0,40.0,t,1058,c,val,353,ala,mild
+3140,missense,serine protease,exon 8,14.0,50.0,t,1058,c,val,353,ala,mild
+3141,missense,serine protease,exon 8,10.0,62.0,t,1058,c,val,353,ala,mild
+3142,missense,serine protease,exon 8,18.0,46.0,t,1058,c,val,353,ala,mild
+3143,missense,serine protease,exon 8,0.27936956501760535,0.005769045354565128,t,1058,a,val,353,glu,severe
+3146,missense,serine protease,exon 8,3.0,4.0,t,1058,g,val,353,gly,moderate
+3149,missense,serine protease,exon 8,5.0,26.0,g,1061,a,ser,354,asn,moderate
+3152,missense,serine protease,exon 8,0.08730011334414867,65.0,g,1063,a,gly,355,ser,severe
+3157,missense,serine protease,exon 8,0.8032017798141686,58.0,g,1064,t,gly,355,val,severe
+3158,missense,serine protease,exon 8,0.2882082003042873,0.42474428629448646,t,1066,a,trp,356,arg,severe
+3161,missense,serine protease,exon 8,0.09230166770163029,86.0,t,1066,c,trp,356,arg,severe
+3175,missense,serine protease,exon 8,4.0,90.0,g,1067,t,trp,356,leu,moderate
+3180,missense,serine protease,exon 8,0.7331400951948419,12.0,g,1067,c,trp,356,ser,severe
+3182,nonsense,serine protease,exon 8,0.4967672233471476,0.27867153999872185,g,1068,a,trp,356,stp_cdn,severe
+3185,missense,serine protease,exon 8,0.7134808347774023,5.0,g,1068,c,trp,356,cys,severe
+3188,nonsense,serine protease,exon 8,0.30264234451180994,0.774159672495265,g,1069,t,gly,357,stp_cdn,severe
+3194,missense,serine protease,exon 8,0.38459877565314926,118.0,g,1069,a,gly,357,arg,severe
+3195,missense,serine protease,exon 8,2.0,100.0,g,1069,a,gly,357,arg,moderate
+3197,missense,serine protease,exon 8,0.1482351800809517,100.0,g,1070,a,gly,357,glu,severe
+3198,missense,serine protease,exon 8,1.0,84.0,g,1070,a,gly,357,glu,moderate
+3210,missense,serine protease,exon 8,2.5,100.0,t,1076,a,val,359,asp,moderate
+3211,missense,serine protease,exon 8,0.9603762397707074,100.0,t,1076,g,val,359,gly,severe
+3222,missense,serine protease,exon 8,0.7014763666911003,100.0,g,1088,a,gly,363,glu,severe
+3237,missense,serine protease,exon 8,0.6169598023032026,90.0,c,1097,a,ala,366,asp,severe
+3238,missense,serine protease,exon 8,14.0,97.0,c,1097,g,ala,366,gly,mild
+3241,missense,serine protease,exon 8,3.0,119.0,c,1097,t,ala,366,val,moderate
+3242,missense,serine protease,exon 8,1.0,62.0,c,1097,t,ala,366,val,moderate
+3245,missense,serine protease,exon 8,15.0,62.0,c,1097,t,ala,366,val,mild
+3250,nonsense,serine protease,exon 8,0.5183225473737179,0.5,c,1108,t,gln,370,stp_cdn,severe
+3252,nonsense,serine protease,exon 8,4.0,4.0,c,1108,t,gln,370,stp_cdn,moderate
+3253,missense,serine protease,exon 8,1.0,2.0,c,1108,g,gln,370,glu,moderate
+3256,missense,serine protease,exon 8,0.3728986771731414,5.0,a,1109,c,gln,370,pro,severe
+3258,missense,serine protease,exon 8,0.7439298619085796,0.5544683835248502,a,1109,c,gln,370,pro,severe
+3260,nonsense,serine protease,exon 8,0.5495553422644601,0.10935458675345533,c,1113,a,tyr,371,stp_cdn,severe
+3270,missense,serine protease,exon 8,0.4,0.8,g,1120,t,val,374,phe,severe
+3271,missense,serine protease,exon 8,0.948532730927854,3.0,g,1120,t,val,374,phe,severe
+3273,missense,serine protease,exon 8,0.5127196030018064,0.32642675493302,g,1120,t,val,374,phe,severe
+3275,missense,serine protease,exon 8,0.24872942844394175,4.0,g,1120,t,val,374,phe,severe
+3277,missense,serine protease,exon 8,4.0,4.0,g,1120,t,val,374,phe,moderate
+3286,missense,serine protease,exon 8,0.5684965781990219,3.6599892644157537,g,1129,t,val,377,phe,severe
+3287,missense,serine protease,exon 8,7.0,96.0,t,1130,c,val,377,ala,mild
+3315,nonsense,serine protease,exon 8,0.1846852776136797,0.11008486045607135,c,1135,t,arg,379,stp_cdn,severe
+3323,nonsense,serine protease,exon 8,0.6844852889701988,0.858791822400869,c,1135,t,arg,379,stp_cdn,severe
+3356,nonsense,serine protease,exon 8,0.32077758894803765,5.0,c,1135,t,arg,379,stp_cdn,severe
+3359,nonsense,serine protease,exon 8,0.9892981352946344,1.0,c,1135,t,arg,379,stp_cdn,severe
+3363,nonsense,serine protease,exon 8,4.0,0.26754817653082485,c,1135,t,arg,379,stp_cdn,moderate
+3365,nonsense,serine protease,exon 8,17.0,19.0,c,1135,t,arg,379,stp_cdn,mild
+3366,nonsense,serine protease,exon 8,0.521815975519216,135.0,c,1135,t,arg,379,stp_cdn,severe
+3370,missense,serine protease,exon 8,0.46502970573672997,63.0,c,1135,g,arg,379,gly,severe
+3371,missense,serine protease,exon 8,13.0,17.0,c,1135,g,arg,379,gly,mild
+3404,missense,serine protease,exon 8,8.0,108.0,g,1136,a,arg,379,gln,mild
+3406,missense,serine protease,exon 8,1.0,98.0,g,1136,a,arg,379,gln,moderate
+3417,missense,serine protease,exon 8,0.785917468745396,87.0,g,1136,a,arg,379,gln,severe
+3419,missense,serine protease,exon 8,2.0,148.0,g,1136,a,arg,379,gln,moderate
+3420,missense,serine protease,exon 8,16.0,140.0,g,1136,a,arg,379,gln,mild
+3423,missense,serine protease,exon 8,2.0,125.0,g,1136,a,arg,379,gln,moderate
+3424,missense,serine protease,exon 8,2.0,88.0,g,1136,a,arg,379,gln,moderate
+3428,missense,serine protease,exon 8,4.0,93.0,g,1136,a,arg,379,gln,moderate
+3431,missense,serine protease,exon 8,4.0,86.0,g,1136,a,arg,379,gln,moderate
+3432,missense,serine protease,exon 8,2.0,60.0,g,1136,a,arg,379,gln,moderate
+3435,missense,serine protease,exon 8,1.0,122.0,g,1136,a,arg,379,gln,moderate
+3440,missense,serine protease,exon 8,1.0,130.0,g,1136,a,arg,379,gln,moderate
+3441,missense,serine protease,exon 8,1.0,75.0,g,1136,a,arg,379,gln,moderate
+3442,missense,serine protease,exon 8,0.9317376355237517,135.0,g,1136,a,arg,379,gln,severe
+3443,missense,serine protease,exon 8,3.0,119.0,g,1136,a,arg,379,gln,moderate
+3444,missense,serine protease,exon 8,2.0,86.0,g,1136,a,arg,379,gln,moderate
+3445,missense,serine protease,exon 8,2.0,80.0,g,1136,a,arg,379,gln,moderate
+3446,missense,serine protease,exon 8,2.0,38.0,g,1136,a,arg,379,gln,moderate
+3448,missense,serine protease,exon 8,2.0,32.0,g,1136,a,arg,379,gln,moderate
+3456,missense,serine protease,exon 8,2.0,150.0,g,1136,t,arg,379,leu,moderate
+3460,missense,serine protease,exon 8,9.0,100.0,c,1139,a,ala,380,asp,mild
+3463,missense,serine protease,exon 8,0.3431878634980794,0.45358850782023596,a,1141,g,thr,381,ala,severe
+3467,missense,serine protease,exon 8,1.0,0.7897350282045276,t,1144,c,cys,382,arg,moderate
+3468,missense,serine protease,exon 8,0.513355054697079,51.0,t,1144,c,cys,382,arg,severe
+3471,missense,serine protease,exon 8,2.0,2.0,t,1144,c,cys,382,arg,moderate
+3472,missense,serine protease,exon 8,0.3664753137201303,5.0,t,1144,c,cys,382,arg,severe
+3477,missense,serine protease,exon 8,0.009540007196524258,0.0433669399265163,g,1145,a,cys,382,tyr,severe
+3484,missense,serine protease,exon 8,4.0,120.0,c,1147,a,leu,383,ile,moderate
+3490,missense,serine protease,exon 8,4.0,72.0,c,1147,t,leu,383,phe,moderate
+3501,nonsense,serine protease,exon 8,0.7968122716819271,0.5623722980974301,c,1150,t,arg,384,stp_cdn,severe
+3523,nonsense,serine protease,exon 8,2.0,0.17430491705599405,c,1150,t,arg,384,stp_cdn,moderate
+3537,missense,serine protease,exon 8,16.0,27.0,g,1151,c,arg,384,pro,mild
+3538,missense,serine protease,exon 8,4.0,15.0,t,1153,c,ser,385,pro,moderate
+3551,missense,serine protease,exon 8,0.30190615555548705,55.0,g,1161,t,lys,387,asn,severe
+3555,missense,serine protease,exon 8,4.0,87.0,a,1168,t,ile,390,phe,moderate
+3559,missense,serine protease,exon 8,0.29124448597528807,119.0,t,1169,g,ile,390,ser,severe
+3560,missense,serine protease,exon 8,4.4,112.0,t,1169,g,ile,390,ser,moderate
+3563,missense,serine protease,exon 8,1.0,28.0,t,1169,c,ile,390,thr,moderate
+3567,nonsense,serine protease,exon 8,0.16896528570536695,3.933302537629599,t,1173,a,tyr,391,stp_cdn,severe
+3573,missense,serine protease,exon 8,22.0,63.0,a,1174,g,asn,392,asp,mild
+3574,missense,serine protease,exon 8,0.7995533908638853,100.0,a,1174,g,asn,392,asp,severe
+3577,missense,serine protease,exon 8,0.5759657233275091,0.3761699798105703,a,1177,c,asn,393,thr,severe
+3580,missense,serine protease,exon 8,0.7250763636938066,2.0,a,1178,t,asn,393,ile,severe
+3581,missense,serine protease,exon 8,4.0,77.0,a,1180,g,met,394,val,moderate
+3584,missense,serine protease,exon 8,3.0,103.0,a,1180,g,met,394,val,moderate
+3586,missense,serine protease,exon 8,0.2578040676488127,12.0,t,1181,a,met,394,lys,severe
+3590,missense,serine protease,exon 8,0.844845311099967,93.0,g,1182,a,met,394,ile,severe
+3591,missense,serine protease,exon 8,0.902930813933918,40.0,g,1182,a,met,394,ile,severe
+3608,missense,serine protease,exon 8,0.790667067350749,0.04173578264906275,t,1186,c,cys,396,arg,severe
+3609,missense,serine protease,exon 8,1.0,5.0,g,1187,t,cys,396,phe,moderate
+3614,missense,serine protease,exon 8,35.0,45.0,g,1187,c,cys,396,ser,mild
+3615,missense,serine protease,exon 8,0.7227176511028078,45.0,g,1187,c,cys,396,ser,severe
+3626,missense,serine protease,exon 8,0.19660971229682123,0.0482314646634554,g,1187,a,cys,396,tyr,severe
+3632,missense,serine protease,exon 8,0.13851703882546396,0.7727811066612867,g,1189,a,ala,397,thr,severe
+3637,missense,serine protease,exon 8,4.0,19.0,g,1193,c,gly,398,ala,moderate
+3638,missense,serine protease,exon 8,8.0,5.339173289117825,g,1193,c,gly,398,ala,mild
+3648,missense,serine protease,exon 8,0.9881446297968276,3.0,g,1193,a,gly,398,asp,severe
+3656,missense,serine protease,exon 8,0.13739191155450559,75.0,g,1204,a,gly,402,arg,severe
+3660,missense,serine protease,exon 8,11.0,70.0,g,1208,a,gly,403,asp,mild
+3662,missense,serine protease,exon 8,0.9477461876563711,100.0,g,1213,a,asp,405,asn,severe
+3668,missense,serine protease,exon 8,0.3586395720642154,95.0,c,1217,t,ser,406,leu,severe
+3673,missense,serine protease,exon 8,2.0,130.0,c,1217,t,ser,406,leu,moderate
+3676,missense,serine protease,exon 8,0.6032604386261515,0.98919391174824,t,1219,c,cys,407,arg,severe
+3683,missense,serine protease,exon 8,0.3558816550777536,25.0,t,1219,g,cys,407,gly,severe
+3696,missense,serine protease,exon 8,0.20317065032973114,110.0,g,1225,a,gly,409,arg,severe
+3700,missense,serine protease,exon 8,3.0,100.0,g,1226,c,gly,409,ala,moderate
+3702,missense,serine protease,exon 8,2.0,53.0,g,1226,a,gly,409,glu,moderate
+3703,missense,serine protease,exon 8,2.6075221421591057,100.0,g,1226,t,gly,409,val,moderate
+3706,missense,serine protease,exon 8,0.7039051201048773,100.0,g,1228,c,asp,410,his,severe
+3707,missense,serine protease,exon 8,2.0,95.0,g,1228,c,asp,410,his,moderate
+3714,missense,serine protease,exon 8,0.6500899105346074,130.0,a,1229,t,asp,410,val,severe
+3717,missense,serine protease,exon 8,0.5131724512527704,12.0,a,1231,g,ser,411,gly,severe
+3724,missense,serine protease,exon 8,1.0,90.0,t,1233,a,ser,411,arg,moderate
+3725,missense,serine protease,exon 8,0.09753988755237397,100.0,t,1233,g,ser,411,arg,severe
+3738,missense,serine protease,exon 8,0.5662055928809905,32.0,g,1235,a,gly,412,glu,severe
+3746,missense,serine protease,exon 8,0.8570549118781392,14.0,g,1237,a,gly,413,arg,severe
+3749,missense,serine protease,exon 8,3.0,103.0,g,1238,c,gly,413,ala,moderate
+3755,missense,serine protease,exon 8,0.5923530450524833,133.0,c,1240,a,pro,414,thr,severe
+3763,missense,serine protease,exon 8,7.0,178.18624989917515,c,1240,a,pro,414,thr,mild
+3765,missense,serine protease,exon 8,0.7389508676990334,156.0,c,1240,a,pro,414,thr,severe
+3766,missense,serine protease,exon 8,2.0,115.0,c,1240,a,pro,414,thr,moderate
+3769,missense,serine protease,exon 8,0.9133742009890291,102.0,c,1241,a,pro,414,his,severe
+3772,missense,serine protease,exon 8,2.0,62.0,c,1241,t,pro,414,leu,moderate
+3785,missense,serine protease,exon 8,0.3176477640650853,0.23774540080545026,a,1244,g,his,415,arg,severe
+3789,missense,serine protease,exon 8,5.0,60.0,t,1245,a,his,415,gln,moderate
+3791,missense,serine protease,exon 8,1.0,1.0,t,1256,a,val,419,glu,moderate
+3796,nonsense,serine protease,exon 8,0.5924438637452647,1.0,g,1258,t,glu,420,stp_cdn,severe
+3798,missense,serine protease,exon 8,5.4,70.0,g,1258,a,glu,420,lys,mild
+3799,missense,serine protease,exon 8,15.0,13.0,c,1265,a,thr,422,asn,mild
+3801,missense,serine protease,exon 8,0.5119991692951328,0.3115473193744056,t,1270,c,phe,424,leu,severe
+3820,missense,serine protease,exon 8,0.26067487239359177,1.0,c,1277,t,thr,426,ile,severe
+3821,missense,serine protease,exon 8,7.0,1.0314216024870426,c,1277,g,thr,426,ser,mild
+3832,missense,serine protease,exon 8,5.0,20.0,a,1288,t,ser,430,cys,moderate
+3841,missense,serine protease,exon 8,2.0,81.0,t,1291,c,trp,431,arg,moderate
+3844,missense,serine protease,exon 8,2.0,51.0,t,1291,c,trp,431,arg,moderate
+3846,missense,serine protease,exon 8,13.0,80.0,t,1291,g,trp,431,gly,mild
+3849,nonsense,serine protease,exon 8,0.2985063279209228,0.239583809299591,g,1293,a,trp,431,stp_cdn,severe
+3854,missense,serine protease,exon 8,0.40149550730602124,96.0,g,1293,t,trp,431,cys,severe
+3872,missense,serine protease,exon 8,2.0,119.0,g,1295,a,gly,432,asp,moderate
+3874,missense,serine protease,exon 8,2.0,120.0,g,1295,a,gly,432,asp,moderate
+3884,missense,serine protease,exon 8,1.0,67.0,g,1297,a,glu,433,lys,moderate
+3885,missense,serine protease,exon 8,2.0,74.0,g,1297,a,glu,433,lys,moderate
+3887,missense,serine protease,exon 8,0.1358117571028492,63.0,g,1297,a,glu,433,lys,severe
+3892,missense,serine protease,exon 8,0.4695519900863343,118.0,a,1298,c,glu,433,ala,severe
+3895,missense,serine protease,exon 8,4.0,90.0,a,1298,c,glu,433,ala,moderate
+3897,missense,serine protease,exon 8,2.0,95.0,a,1298,g,glu,433,gly,moderate
+3901,missense,serine protease,exon 8,21.0,62.0,g,1300,a,glu,434,lys,mild
+3910,missense,serine protease,exon 8,0.09046539090637562,0.915384338631722,g,1304,a,cys,435,tyr,severe
+3913,missense,serine protease,exon 8,0.018370070939766614,2.0,g,1304,a,cys,435,tyr,severe
+3915,missense,serine protease,exon 8,0.4560742459471546,5.0,g,1304,a,cys,435,tyr,severe
+3919,missense,serine protease,exon 8,4.0,7.0,g,1304,a,cys,435,tyr,moderate
+3924,missense,serine protease,exon 8,1.0,94.0,g,1306,a,ala,436,thr,moderate
+3926,missense,serine protease,exon 8,0.3620668826364848,40.0,g,1306,a,ala,436,thr,severe
+3928,missense,serine protease,exon 8,7.0,50.0,g,1306,a,ala,436,thr,mild
+3932,missense,serine protease,exon 8,2.0,30.0,c,1307,a,ala,436,glu,moderate
+3934,missense,serine protease,exon 8,0.8244103463999066,150.0,c,1307,t,ala,436,val,severe
+3941,missense,serine protease,exon 8,3.922827629522317,140.0,c,1307,t,ala,436,val,moderate
+3942,missense,serine protease,exon 8,0.9565478732844983,71.0,c,1307,t,ala,436,val,severe
+3943,missense,serine protease,exon 8,0.04664260544498344,100.0,c,1307,t,ala,436,val,severe
+3944,missense,serine protease,exon 8,2.0,48.0,c,1307,t,ala,436,val,moderate
+3946,missense,serine protease,exon 8,18.0,150.0,a,1318,c,lys,440,gln,mild
+3950,missense,serine protease,exon 8,2.5949759915637176,33.0,a,1318,g,lys,440,glu,moderate
+3959,nonsense,serine protease,exon 8,0.648513541316229,0.7185260354945759,t,1323,g,tyr,441,stp_cdn,severe
+3963,missense,serine protease,exon 8,0.44974025801076845,110.0,g,1324,a,gly,442,arg,severe
+3964,missense,serine protease,exon 8,1.0,90.0,g,1324,a,gly,442,arg,moderate
+3965,missense,serine protease,exon 8,0.09526596598049675,90.0,g,1324,a,gly,442,arg,severe
+3966,missense,serine protease,exon 8,1.0,112.0,g,1325,c,gly,442,ala,moderate
+3973,missense,serine protease,exon 8,1.0,46.0,t,1328,c,ile,443,thr,moderate
+4023,missense,serine protease,exon 8,2.0,62.0,t,1328,c,ile,443,thr,moderate
+4028,missense,serine protease,exon 8,3.0,62.0,t,1328,c,ile,443,thr,moderate
+4029,missense,serine protease,exon 8,3.0,80.0,t,1328,c,ile,443,thr,moderate
+4030,missense,serine protease,exon 8,12.0,160.0,t,1328,c,ile,443,thr,mild
+4032,missense,serine protease,exon 8,3.0,70.0,t,1328,c,ile,443,thr,moderate
+4033,missense,serine protease,exon 8,4.0,52.0,t,1328,c,ile,443,thr,moderate
+4035,missense,serine protease,exon 8,0.8149730432446018,100.0,t,1328,c,ile,443,thr,severe
+4037,missense,serine protease,exon 8,2.0,55.0,t,1328,c,ile,443,thr,moderate
+4038,missense,serine protease,exon 8,2.0,65.0,t,1328,c,ile,443,thr,moderate
+4039,missense,serine protease,exon 8,1.0,73.0,t,1328,c,ile,443,thr,moderate
+4040,missense,serine protease,exon 8,4.0,61.0,t,1328,c,ile,443,thr,moderate
+4041,missense,serine protease,exon 8,1.0,45.0,t,1328,c,ile,443,thr,moderate
+4042,missense,serine protease,exon 8,3.0,64.0,t,1328,c,ile,443,thr,moderate
+4043,missense,serine protease,exon 8,2.0,75.0,t,1328,c,ile,443,thr,moderate
+4044,missense,serine protease,exon 8,5.0,96.0,t,1328,c,ile,443,thr,moderate
+4045,missense,serine protease,exon 8,4.0,56.0,t,1328,c,ile,443,thr,moderate
+4046,missense,serine protease,exon 8,4.0,88.0,t,1328,c,ile,443,thr,moderate
+4048,missense,serine protease,exon 8,3.0,54.0,t,1328,c,ile,443,thr,moderate
+4049,missense,serine protease,exon 8,8.0,70.0,t,1328,c,ile,443,thr,mild
+4050,missense,serine protease,exon 8,2.0,72.0,t,1328,c,ile,443,thr,moderate
+4051,missense,serine protease,exon 8,0.20498626744616433,27.0,t,1328,c,ile,443,thr,severe
+4057,missense,serine protease,exon 8,9.0,74.0,t,1328,c,ile,443,thr,mild
+4058,missense,serine protease,exon 8,2.0,100.0,t,1328,c,ile,443,thr,moderate
+4061,missense,serine protease,exon 8,5.0,35.0,t,1328,c,ile,443,thr,moderate
+4075,missense,serine protease,exon 8,4.6,58.0,t,1330,c,tyr,444,his,moderate
+4106,missense,serine protease,exon 8,25.0,132.0,g,1346,a,arg,449,gln,mild
+4108,missense,serine protease,exon 8,33.0,101.0,g,1346,a,arg,449,gln,mild
+4109,missense,serine protease,exon 8,30.0,60.0,g,1346,a,arg,449,gln,mild
+4111,missense,serine protease,exon 8,48.0,185.0,g,1346,a,arg,449,gln,mild
+4115,missense,serine protease,exon 8,7.0,162.0,t,1348,c,tyr,450,his,mild
+4116,missense,serine protease,exon 8,0.7771343088558385,0.2846095275925288,a,1349,g,tyr,450,cys,severe
+4123,missense,serine protease,exon 8,23.0,26.0,g,1351,t,val,451,phe,mild
+4126,missense,serine protease,exon 8,0.42181772886931146,0.5168017941467918,t,1357,a,trp,453,arg,severe
+4128,missense,serine protease,exon 8,0.13367427742820537,2.0,t,1357,c,trp,453,arg,severe
+4137,nonsense,serine protease,exon 8,0.49160094426950574,0.5596452223102057,g,1359,a,trp,453,stp_cdn,severe
+4145,missense,serine protease,exon 8,1.0,1.0,t,1361,c,ile,454,thr,moderate
+4148,nonsense,serine protease,exon 8,0.8351111095984481,0.7290328401652847,a,1369,t,lys,457,stp_cdn,severe
+4149,missense,serine protease,exon 8,3.0,1.0,c,1373,a,thr,458,lys,moderate
